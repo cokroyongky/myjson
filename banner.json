@@ -1,0 +1,17 @@
+{
+    "data": [{
+            "nu_id": 5,
+            "vc_judul": "AKBP Andi Nurwandi Meninggal Saat Panjat Tebing Bersama Adik dan Anaknya",
+            "vc_image_url": "https://akcdn.detik.net.id/community/media/visual/2017/02/22/6ba4e01f-59fc-4df2-baf3-cc259c053fac_169.jpg",
+            "created_at": "2019-12-15 14:52:39"
+        },
+        {
+            "nu_id": 3,
+            "vc_judul": "AKBP Andi Nurwandi Meninggal Saat Panjat Tebing Bersama Adik dan Anaknya",
+            "vc_image_url": "https://akcdn.detik.net.id/community/media/visual/2017/02/22/6ba4e01f-59fc-4df2-baf3-cc259c053fac_169.jpg",
+            "created_at": "2019-12-15 14:52:39"
+        }
+    ],
+    "error_code": 200,
+    "totals": 2
+}
