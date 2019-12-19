@@ -1,41 +1,164 @@
 {
     "data": [{
-            "nu_id": 1,
-            "vc_nama": "Rahman Maulana",
-            "txt_bio": "erdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper l",
-            "vc_since": "2017",
-            "vc_photo": "https://miro.medium.com/fit/c/256/256/2*9xlC8UzvFQQr9Q9xRoHTQA.jpeg",
-            "dt_tgl_lahir": "2019-12-15",
-            "txt_hobi": "mancing,nonton"
+            "train_name": "Prabu Jaya",
+            "class_name": "Eksekutif & Bisnis",
+            "station_departure": "Kertapati",
+            "station_arrived": "Prabumulih",
+            "departure_time": "06:20:00",
+            "arrived_time": "07:45:00"
         },
         {
-            "nu_id": 2,
-            "vc_nama": "Rahman Maulana",
-            "txt_bio": "erdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper l",
-            "vc_since": "2017",
-            "vc_photo": "https://miro.medium.com/fit/c/256/256/2*9xlC8UzvFQQr9Q9xRoHTQA.jpeg",
-            "dt_tgl_lahir": "2019-12-15",
-            "txt_hobi": "mancing,nonton"
+            "train_name": "Prabu Jaya",
+            "class_name": "Eksekutif & Bisnis",
+            "station_departure": "Prabumulih",
+            "station_arrived": "Kertapati",
+            "departure_time": "09:00:00",
+            "arrived_time": "10:21:00"
         },
         {
-            "nu_id": 3,
-            "vc_nama": "Rahman Maulana",
-            "txt_bio": "erdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper l",
-            "vc_since": "2017",
-            "vc_photo": "https://miro.medium.com/fit/c/256/256/2*9xlC8UzvFQQr9Q9xRoHTQA.jpeg",
-            "dt_tgl_lahir": "2019-12-15",
-            "txt_hobi": "mancing,nonton"
+            "train_name": "Kuala Stabas",
+            "class_name": "(Bisnis & )Ekonomi AC Premium",
+            "station_departure": "Baturaja",
+            "station_arrived": "Tanjung Karang",
+            "departure_time": "06:30:00",
+            "arrived_time": "11:15:00"
         },
         {
-            "nu_id": 4,
-            "vc_nama": "Rahman Maulana",
-            "txt_bio": "erdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper l",
-            "vc_since": "2017",
-            "vc_photo": "https://miro.medium.com/fit/c/256/256/2*9xlC8UzvFQQr9Q9xRoHTQA.jpeg",
-            "dt_tgl_lahir": "2019-12-15",
-            "txt_hobi": "mancing,nonton"
+            "train_name": "Kuala Stabas",
+            "class_name": "(Bisnis & )Ekonomi AC Premium",
+            "station_departure": "Tanjung Karang",
+            "station_arrived": "Baturaja",
+            "departure_time": "13:00:00",
+            "arrived_time": "17:50:00"
+        },
+        {
+            "train_name": "Rajabasa",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Kertapati",
+            "station_arrived": "Tanjung Karang",
+            "departure_time": "08:30:00",
+            "arrived_time": "18:15:00"
+        },
+        {
+            "train_name": "Rajabasa",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Tanjung Karang",
+            "station_arrived": "Kertapati",
+            "departure_time": "08:30:00",
+            "arrived_time": "18:28:00"
+        },
+        {
+            "train_name": "Serelo/Bukit Serelo/Buser",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Lubuk Linggau",
+            "station_arrived": "Kertapati",
+            "departure_time": "09:30:00",
+            "arrived_time": "17:00:00"
+        },
+        {
+            "train_name": "Serelo/Bukit Serelo/Buser",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Kertapati",
+            "station_arrived": "Lubuk Linggau",
+            "departure_time": "09:30:00",
+            "arrived_time": "17:00:00"
+        },
+        {
+            "train_name": "Sindang Marga",
+            "class_name": "Eksekutif & Bisnis",
+            "station_departure": "Kertapati",
+            "station_arrived": "Lubuk Linggau",
+            "departure_time": "20:00:00",
+            "arrived_time": "03:30:00"
+        },
+        {
+            "train_name": "Sindang Marga",
+            "class_name": "Eksekutif & Bisnis",
+            "station_departure": "Lubuk Linggau",
+            "station_arrived": "Kertapati",
+            "departure_time": "20:00:00",
+            "arrived_time": "03:30:00"
+        },
+        {
+            "train_name": "Sriwijaya",
+            "class_name": "Eksekutif(Bisnis) & Ekonomi AC Premium",
+            "station_departure": "Kertapati",
+            "station_arrived": "Tanjung Karang",
+            "departure_time": "21:00:00",
+            "arrived_time": "06:10:00"
+        },
+        {
+            "train_name": "Sriwijaya",
+            "class_name": "Eksekutif(Bisnis) & Ekonomi AC Premium",
+            "station_departure": "Tanjung Karang",
+            "station_arrived": "Kertapati",
+            "departure_time": "21:00:00",
+            "arrived_time": "06:15:00"
+        },
+        {
+            "train_name": "Sibinuang",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Padang",
+            "station_arrived": "Pariaman",
+            "departure_time": "17:10:00",
+            "arrived_time": "18:49:00"
+        },
+        {
+            "train_name": "Sibinuang",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Pariaman",
+            "station_arrived": "Padang",
+            "departure_time": "09:20:00",
+            "arrived_time": "10:59:00"
+        },
+        {
+            "train_name": "Sibinuang",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Padang",
+            "station_arrived": "Pariaman",
+            "departure_time": "14:00:00",
+            "arrived_time": "15:37:00"
+        },
+        {
+            "train_name": "Sibinuang",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Pariaman",
+            "station_arrived": "Padang",
+            "departure_time": "06:05:00",
+            "arrived_time": "07:39:00"
+        },
+        {
+            "train_name": "Sibinuang",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Padang",
+            "station_arrived": "Pariaman",
+            "departure_time": "09:00:00",
+            "arrived_time": "10:36:00"
+        },
+        {
+            "train_name": "Sibinuang",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Pariaman",
+            "station_arrived": "Padang",
+            "departure_time": "16:20:00",
+            "arrived_time": "17:56:00"
+        },
+        {
+            "train_name": "Sibinuang",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Padang",
+            "station_arrived": "Pariaman",
+            "departure_time": "05:45:00",
+            "arrived_time": "07:19:00"
+        },
+        {
+            "train_name": "Sibinuang",
+            "class_name": "Ekonomi AC",
+            "station_departure": "Pariaman",
+            "station_arrived": "Padang",
+            "departure_time": "14:25:00",
+            "arrived_time": "16:03:00"
         }
     ],
-    "error_code": 200,
-    "totals": 4
+    "totals": 20
 }
